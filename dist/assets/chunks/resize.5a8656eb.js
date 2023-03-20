@@ -1,0 +1,1 @@
+import{f as t,h as i}from"./framework.85410589.js";function a(){const e=t(null),n=t(0),o=t(0);return i(()=>{n.value=e.value.clientWidth,o.value=e.value.clientHeight}),{containerRef:e,width:n,height:o}}export{a as u};
